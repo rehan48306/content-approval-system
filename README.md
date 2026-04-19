@@ -11,7 +11,7 @@ A full-stack application implementing a multi-stage content approval workflow wi
 ```bash
 cd backend
 npm install
-node index.js
+node src/server.js
 ```
 
 Server runs on: **http://localhost:5000**
